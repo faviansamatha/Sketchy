@@ -21,10 +21,10 @@ Uncomment: const socket = io('http://localhost:3000’);
 Comment out the server line.
 
 ### to run tests, run:
-npm test
+```npm test```
 
 to run locally, ensure dependencies are installed and run:
-npm run devStart
+```npm run devStart```
 
 ### Authors
 
